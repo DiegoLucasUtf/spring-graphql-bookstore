@@ -314,13 +314,3 @@ type Mutation {
 | `lombok` | Redução de boilerplate (opcional) |
 
 ---
-
-## 🚀 Próximos Passos
-
-Após dominar o básico, explore:
-
-- **Subscriptions** — atualizações em tempo real via WebSocket
-- **DataLoader** — solução para o problema N+1 em relacionamentos
-- **Paginação** — queries com `first`, `after` (Cursor-based pagination)
-- **Spring Security** — autenticação e autorização nas queries
-- **PostgreSQL** — substituir o H2 por banco de dados persistente
