@@ -1,0 +1,6 @@
+package com.diego.bookstore.repository;
+
+import com.diego.bookstore.model.Author;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface AuthorRepository extends JpaRepository<Author, Long> {}

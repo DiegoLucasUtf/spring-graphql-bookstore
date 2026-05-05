@@ -1,0 +1,7 @@
+mutation {
+  createAuthor(name: "Machado de Assis", nationality: "Brasileiro") {
+    id
+    name
+    nationality
+  }
+}
